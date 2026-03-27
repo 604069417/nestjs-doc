@@ -1,4 +1,5 @@
 export default {
+  base: '/nestjs-doc/',
   title: 'Nest通关秘籍',
   description: '最流行的 Node 企业级框架',
   ignoreDeadLinks: true,
